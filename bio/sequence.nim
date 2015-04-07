@@ -1,7 +1,7 @@
 #
 # bio/sequence.nim - biological sequence classes
 #
-# Copyright (c) 2014 Adel Qalieh <aqalieh95@gmail.com>
+# Copyright (c) 2015 Adel Qalieh <aqalieh95@gmail.com>
 
 import strutils
 
